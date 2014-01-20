@@ -1,0 +1,15 @@
+GIT
+  remote: https://github.com/gardym/rdio-simple.git
+  revision: 80e8eda3d32a16f075911a1621ef89d50bfc347f
+  specs:
+    rdio_simple (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rdio_simple!
